@@ -151,12 +151,10 @@ Reads the processed dataset and saves six PNG charts to the `visuals/` directory
 
 ---
 
-## Roadmap
+## Project status
 
-This repository is an active learning artefact and continues to develop. Current priorities:
-
-- Expanded methodology and design decisions write-up
-- An Essential Eight maturity model assessment view (ML0 → ML3)
+Phase 1 complete: gap analysis, risk register, scoring pipeline, dashboard.
+Phase 2 (in progress): expanded methodology documentation and Essential Eight maturity model view."
 
 ---
 
